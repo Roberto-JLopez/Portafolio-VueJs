@@ -7,7 +7,7 @@ import icono5 from '/src/assets/watch.svg';
 
 import { ref } from 'vue';
 const titulo = 'Desarrollador Full Stack';
-const fecha = 'Desde Enero 2022 / Julio 2024';
+const fecha = 'Desde Enero 2022 / Noviembre 2024';
 const experiencias = ref([
     { id: 1, src: icono1, parrafo: 'Lideré un equipo de 5 desarrolladores en la creación de una plataforma de comercio electrónico que incrementó las ventas en un 35% durante el primer año.' },
     { id: 2, src: icono2, parrafo: 'Diseñé y desarrollé aplicaciones web utilizando Node.js, React y MongoDB, logrando reducir el tiempo de carga de las páginas en un 50%.' },
@@ -51,13 +51,13 @@ const experiencias = ref([
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    background-color: rgb(28, 41, 52);
+    background: linear-gradient(135deg, #1B3B2E, #2F4F4F, #3B6F57, #4CAF50, #a5d6a7c7);
     border-radius: 15px;
 }
 
 .titulo {
     font-size: 1.5rem;
-    color: coral;
+    color: rgb(18, 17, 16);
 }
 
 .fecha {

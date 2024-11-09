@@ -103,7 +103,8 @@ misProyectos.value = ([
     /* Centra los elementos hijos horizontalmente */
     justify-content: center;
     /* Aplica un fondo con un degradado de colores */
-    background: linear-gradient(-45deg, #021526, #03346E, #6EACDA, #E2E2B6);
+    background: linear-gradient(135deg, #1B3B2E, #2F4F4F, #3B6F57, #4CAF50, #A5D6A7);
+
     /* Ajusta el tamaño del fondo para que cubra el área completa */
     background-size: 400% 400%;
     /* Aplica una animación al fondo que dura 15 segundos, tiene una transición suave y se repite infinitamente */
@@ -142,7 +143,7 @@ misProyectos.value = ([
     /* Oculta cualquier contenido que se desborde del contenedor */
     overflow: hidden;
     /* Establece un color de fondo claro para el proyecto */
-    background-color: #f9f9f9;
+    background-color: #d2ebee;
     /* Define el ancho máximo del proyecto en 222px */
     max-width: 222px;
     /* Hace que el contenedor se ajuste flexiblemente ocupando al menos 300px de ancho */
@@ -203,9 +204,9 @@ misProyectos.value = ([
 /* Estilo para el botón 'Ver Más' dentro de la clase 'proyecto-links' */
 .proyecto-links .btn-ver-mas {
     /* Aplica un color de fondo azul (#007BFF) */
-    background-color: #007BFF;
+    background-color: #FFD700;
     /* Aplica un color de texto blanco */
-    color: #fff;
+    color: #1d1b1b;
     /* Agrega un padding de 10px en vertical y 15px en horizontal */
     padding: 10px 15px;
     /* Redondea las esquinas del botón */

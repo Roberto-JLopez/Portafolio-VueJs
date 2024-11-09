@@ -1,7 +1,7 @@
 <script>
 </script>
 <template>
-    <!-- 
+    <!--
 - Single file SVG animation
 - * can be used as CSS backgroud
 - * total size is less than 2kb!

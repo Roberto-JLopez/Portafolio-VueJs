@@ -2,17 +2,22 @@
 import linkedin from '/src/assets/linkedin_icon.svg';
 import instagram from '/src/assets/instagram_icon.svg';
 import github from '/src/assets/github_icon.svg';
+import x  from '/src/assets/x_icon.png';
 import cv from '/src/assets/cv_resume_icon.svg';
 
 const title = 'Lopez Roberto Jose';
 const descripcion = 'Estudiante Universitario de Tecnicatura en Programación - UTN';
 const residencia = 'Resistencia, Chaco Argentina';
-const presentacion = 'Hola, Bienvenidos a mi portafolio de proyectos. Soy un estuante de la tecnicatura en programacion  con experiencia en el desarrollo de aplicaciones web y móviles.';
+const presentacion = 'Hola, Bienvenidos a mi portafolio de proyectos. Soy un estuante de la técnicatura en programación con experiencia en el desarrollo de aplicaciones web y móviles.';
 const redesSociales = [
-  { id: 1, name: 'linkedin', src: linkedin, url: 'https://www.linkedin.com/in/jose-perez/' },
+  { id: 1, name: 'linkedin', src: linkedin, url: 'https://www.linkedin.com' },
   { id: 2, name: 'Instagram', src: instagram, url: 'https://www.instagram.com/rober.lopez1105/' },
   { id: 3, name: 'github', src: github, url: 'https://github.com/Roberto-JLopez' },
-  { id: 4, name: 'curriculum', src: cv, url: '' },
+  { id: 4, name: 'x', src: x, url: 'https://x.com/chinoL1105' },
+  { id: 5, name: 'curriculum', src: cv, url: '' },
+
+
+
 ];
 const telefono = '+54 3704831268';
 </script>
@@ -46,7 +51,7 @@ p {
 }
 
 .card {
-  background-color: rgb(28, 41, 52);
+  background-color: #1B3B2E;
   border-radius: 10px;
   padding: 10px;
   margin: 10px;
