@@ -51,7 +51,7 @@ p {
 }
 
 .card {
-  background-color: #1B3B2E;
+  background: linear-gradient(135deg,  #A5D6A7,#4CAF50, #1B3B2E,#3B6F57, #2F4F4F, #3B6F57, #4CAF50);
   border-radius: 10px;
   padding: 10px;
   margin: 10px;

@@ -22,7 +22,7 @@ const navegacion= ref([
 
 <style scoped>
 .navbar {
-   background-color:#1B3B2E; /* Establece el color de fondo usando una variable CSS */
+   background: linear-gradient(135deg,  #A5D6A7,#4CAF50, #1B3B2E,#3B6F57, #2F4F4F, #3B6F57, #4CAF50); /* Establece el color de fondo usando una variable CSS */
     color: #fff; /* Establece el color del texto en blanco */
     padding: 0.5rem 1rem; /* Añade un padding de 0.5rem arriba y abajo, y 1rem a los lados */
     align-items: center; /* Centra verticalmente los elementos dentro de la navbar */

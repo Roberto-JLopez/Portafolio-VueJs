@@ -212,7 +212,7 @@ const habilidades = ref([
     background-position: center;
     background-repeat: no-repeat; */
     /*Fondo con gradiente*/
-   background: linear-gradient(135deg, #1B3B2E, #2F4F4F, #3B6F57, #4CAF50, #A5D6A7);
+    background: linear-gradient(135deg,  #A5D6A7,#4CAF50, #1B3B2E,#3B6F57, #2F4F4F, #3B6F57, #4CAF50);
     /*Fondo con color solido*/
     /* background-color: rgb(28, 41, 52); */
 }
