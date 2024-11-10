@@ -103,7 +103,7 @@ misProyectos.value = ([
     /* Centra los elementos hijos horizontalmente */
     justify-content: center;
     /* Aplica un fondo con un degradado de colores */
-    background: linear-gradient(135deg, #1B3B2E, #2F4F4F, #3B6F57, #4CAF50, #A5D6A7);
+    background: linear-gradient(135deg,  #A5D6A7,#4CAF50, #1B3B2E,#3B6F57, #2F4F4F, #3B6F57, #4CAF50);
 
     /* Ajusta el tamaño del fondo para que cubra el área completa */
     background-size: 400% 400%;

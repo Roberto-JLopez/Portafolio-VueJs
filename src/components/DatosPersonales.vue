@@ -20,6 +20,7 @@ const redesSociales = [
 
 ];
 const telefono = '+54 3704831268';
+const mail = "RoberLopez1105@gmail.com";
 </script>
 
 <template>
@@ -33,7 +34,8 @@ const telefono = '+54 3704831268';
           <a :href="red.url"><img class="icon-redsocial" :src="red.src" width="35rem" :alt="red.name"></a>
         </li>
       </ul>
-      <h3>☎ Mi Teléfono personal: {{ telefono }}</h3>
+      <h3>📱☎️ Mi Teléfono personal: {{ telefono }}</h3>
+      <h3>💻✉️ Mail de contacto: {{ mail }}</h3>
       <h4>{{ residencia }}</h4>
     </div>
   </section>
